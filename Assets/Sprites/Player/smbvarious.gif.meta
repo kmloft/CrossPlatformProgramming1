@@ -1,0 +1,4260 @@
+fileFormatVersion: 2
+guid: 000a42745f0a3a644988f42e860bfd08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4252785731128211153
+    second: smbvarious_0
+  - first:
+      213: 9054094458608809050
+    second: smbvarious_1
+  - first:
+      213: -5042572396506651763
+    second: smbvarious_2
+  - first:
+      213: 6324093758361938224
+    second: smbvarious_3
+  - first:
+      213: -802738077247723433
+    second: smbvarious_4
+  - first:
+      213: 3694978950713648444
+    second: smbvarious_5
+  - first:
+      213: 4385725556576971892
+    second: Idle2
+  - first:
+      213: 6500504801482270214
+    second: Idle1
+  - first:
+      213: 2101075482004193218
+    second: smbvarious_8
+  - first:
+      213: 3439643480961462408
+    second: smbvarious_9
+  - first:
+      213: -8736598749482137089
+    second: smbvarious_10
+  - first:
+      213: -4383905163707331499
+    second: smbvarious_11
+  - first:
+      213: 4369752447926589796
+    second: smbvarious_12
+  - first:
+      213: -3019821000522715803
+    second: smbvarious_13
+  - first:
+      213: -5076504653754413284
+    second: smbvarious_14
+  - first:
+      213: -4294400942297520208
+    second: smbvarious_15
+  - first:
+      213: 2373126081246328550
+    second: smbvarious_16
+  - first:
+      213: 6610369083338444641
+    second: smbvarious_17
+  - first:
+      213: -1610818900863300302
+    second: smbvarious_18
+  - first:
+      213: 8701206921586229833
+    second: smbvarious_19
+  - first:
+      213: 7476780344540555872
+    second: smbvarious_20
+  - first:
+      213: 458275205475144569
+    second: smbvarious_21
+  - first:
+      213: -2648022612212468126
+    second: smbvarious_22
+  - first:
+      213: -4859574080148622271
+    second: smbvarious_23
+  - first:
+      213: -915824039946620817
+    second: smbvarious_24
+  - first:
+      213: -5720714114655598437
+    second: smbvarious_25
+  - first:
+      213: 8845963147831361184
+    second: smbvarious_26
+  - first:
+      213: -8084941054971806882
+    second: smbvarious_27
+  - first:
+      213: 1904826380247077320
+    second: smbvarious_28
+  - first:
+      213: 703512111375123541
+    second: smbvarious_29
+  - first:
+      213: 3216438869661640247
+    second: smbvarious_30
+  - first:
+      213: -1263913240865011436
+    second: smbvarious_31
+  - first:
+      213: 1689570238518384903
+    second: smbvarious_32
+  - first:
+      213: -3194074980445141413
+    second: smbvarious_33
+  - first:
+      213: -8557595964558351312
+    second: smbvarious_34
+  - first:
+      213: 4760835992124832901
+    second: smbvarious_35
+  - first:
+      213: 5554008453409685700
+    second: smbvarious_36
+  - first:
+      213: -7756867379165143552
+    second: smbvarious_37
+  - first:
+      213: -4235790141538581995
+    second: smbvarious_38
+  - first:
+      213: -8249017418859495307
+    second: smbvarious_39
+  - first:
+      213: 4688602125704229896
+    second: smbvarious_40
+  - first:
+      213: 3089640939224165329
+    second: smbvarious_41
+  - first:
+      213: 4579792666879137986
+    second: smbvarious_42
+  - first:
+      213: 557012820818758208
+    second: smbvarious_43
+  - first:
+      213: 3051387064780031686
+    second: smbvarious_44
+  - first:
+      213: -8501050630818807545
+    second: smbvarious_45
+  - first:
+      213: -5727231340391194071
+    second: smbvarious_46
+  - first:
+      213: 5360601389222459272
+    second: smbvarious_47
+  - first:
+      213: 3667782660401519009
+    second: smbvarious_48
+  - first:
+      213: 1533826847105643090
+    second: smbvarious_49
+  - first:
+      213: -5490885416267709221
+    second: smbvarious_50
+  - first:
+      213: -2479842897536870607
+    second: smbvarious_51
+  - first:
+      213: -337336946662641962
+    second: smbvarious_52
+  - first:
+      213: 7438978854182070587
+    second: smbvarious_53
+  - first:
+      213: 1544343583514958348
+    second: smbvarious_54
+  - first:
+      213: -4452524589656145243
+    second: smbvarious_55
+  - first:
+      213: -2784761423603711520
+    second: smbvarious_56
+  - first:
+      213: -6183780001935188161
+    second: smbvarious_57
+  - first:
+      213: 2778386323313672195
+    second: smbvarious_58
+  - first:
+      213: 7448459670460747973
+    second: smbvarious_59
+  - first:
+      213: 5358641797358016388
+    second: smbvarious_60
+  - first:
+      213: -8038276283568460270
+    second: smbvarious_61
+  - first:
+      213: -8833702427079434269
+    second: smbvarious_62
+  - first:
+      213: 2546553534234845812
+    second: smbvarious_63
+  - first:
+      213: -6297029331869224577
+    second: smbvarious_64
+  - first:
+      213: 2457011412936322869
+    second: smbvarious_65
+  - first:
+      213: -450592606531340572
+    second: smbvarious_66
+  - first:
+      213: -3423022331287507287
+    second: smbvarious_67
+  - first:
+      213: -1472318199344142677
+    second: smbvarious_68
+  - first:
+      213: -2561277884332810580
+    second: smbvarious_69
+  - first:
+      213: 3879468246116000461
+    second: smbvarious_70
+  - first:
+      213: 5254397518039959839
+    second: smbvarious_71
+  - first:
+      213: 3853748177931824002
+    second: smbvarious_72
+  - first:
+      213: 231640509271701267
+    second: smbvarious_73
+  - first:
+      213: -2797309240940987661
+    second: smbvarious_74
+  - first:
+      213: 5049133175684759875
+    second: smbvarious_75
+  - first:
+      213: -8724600441994062954
+    second: smbvarious_76
+  - first:
+      213: 2121650448392931110
+    second: smbvarious_77
+  - first:
+      213: 6766317578836835480
+    second: smbvarious_78
+  - first:
+      213: 6030805824970637318
+    second: smbvarious_79
+  - first:
+      213: 283121025093488993
+    second: smbvarious_80
+  - first:
+      213: -5185893493469539935
+    second: smbvarious_81
+  - first:
+      213: 1746586738043978960
+    second: smbvarious_82
+  - first:
+      213: -7038935916364284494
+    second: smbvarious_83
+  - first:
+      213: -7527500529349553530
+    second: smbvarious_84
+  - first:
+      213: -6282137274334529178
+    second: smbvarious_85
+  - first:
+      213: -7539102052797744109
+    second: smbvarious_86
+  - first:
+      213: 1063434295417511451
+    second: smbvarious_87
+  - first:
+      213: -5584245661527697444
+    second: smbvarious_88
+  - first:
+      213: 931499468885675754
+    second: smbvarious_89
+  - first:
+      213: -6367307295832707386
+    second: smbvarious_90
+  - first:
+      213: 7348938061011236561
+    second: smbvarious_91
+  - first:
+      213: -332655872572906713
+    second: smbvarious_92
+  - first:
+      213: 2201120981530443871
+    second: smbvarious_93
+  - first:
+      213: -1489985455631159715
+    second: smbvarious_94
+  - first:
+      213: 336324371055327497
+    second: smbvarious_95
+  - first:
+      213: 2258718029562799162
+    second: smbvarious_96
+  - first:
+      213: -1777088551063212386
+    second: smbvarious_97
+  - first:
+      213: -6604796644744169369
+    second: smbvarious_98
+  - first:
+      213: -4354719887054186712
+    second: smbvarious_99
+  - first:
+      213: -5310953397283363664
+    second: smbvarious_100
+  - first:
+      213: 1400182539416044386
+    second: smbvarious_101
+  - first:
+      213: -7725424148933654116
+    second: smbvarious_102
+  - first:
+      213: 236036330549756217
+    second: smbvarious_103
+  - first:
+      213: 8567786367190861928
+    second: smbvarious_104
+  - first:
+      213: 4290270677863684436
+    second: smbvarious_105
+  - first:
+      213: 1243910498814161072
+    second: smbvarious_106
+  - first:
+      213: -1610534232471566390
+    second: smbvarious_107
+  - first:
+      213: -5113017499892223526
+    second: smbvarious_108
+  - first:
+      213: 8248548424798071482
+    second: smbvarious_109
+  - first:
+      213: 6866204625206665179
+    second: smbvarious_110
+  - first:
+      213: 5340923899619702216
+    second: smbvarious_111
+  - first:
+      213: 5747878474230356270
+    second: smbvarious_112
+  - first:
+      213: -4818223085305525929
+    second: smbvarious_113
+  - first:
+      213: 5845905691948793283
+    second: smbvarious_114
+  - first:
+      213: -4281151323500303034
+    second: smbvarious_115
+  - first:
+      213: -4550157127083886895
+    second: smbvarious_116
+  - first:
+      213: -7612212285124119321
+    second: smbvarious_117
+  - first:
+      213: 6351706936128922953
+    second: smbvarious_118
+  - first:
+      213: 5453524849762442177
+    second: smbvarious_119
+  - first:
+      213: 3150590447115092266
+    second: smbvarious_120
+  - first:
+      213: -7369832147494619348
+    second: smbvarious_121
+  - first:
+      213: -1417053519374926804
+    second: smbvarious_122
+  - first:
+      213: 2957784343745211424
+    second: smbvarious_123
+  - first:
+      213: -7450348181438087740
+    second: smbvarious_124
+  - first:
+      213: -3651043026803868077
+    second: smbvarious_125
+  - first:
+      213: 5776063278592959835
+    second: smbvarious_126
+  - first:
+      213: -8416308073028268487
+    second: smbvarious_127
+  - first:
+      213: -5282388843698223610
+    second: smbvarious_128
+  - first:
+      213: 456401378516210127
+    second: smbvarious_129
+  - first:
+      213: 9053851851091628590
+    second: smbvarious_130
+  - first:
+      213: -4285761461318715420
+    second: smbvarious_131
+  - first:
+      213: 2003523140009924942
+    second: smbvarious_132
+  - first:
+      213: -626100352039503334
+    second: smbvarious_133
+  - first:
+      213: 2157646584076345489
+    second: smbvarious_134
+  - first:
+      213: -6811048416911184294
+    second: smbvarious_135
+  - first:
+      213: 1944558862596849544
+    second: smbvarious_136
+  - first:
+      213: -3402388244237925445
+    second: smbvarious_137
+  - first:
+      213: -4686560056153373678
+    second: smbvarious_138
+  - first:
+      213: 4856199252583865344
+    second: smbvarious_139
+  - first:
+      213: 5716345016745030307
+    second: smbvarious_140
+  - first:
+      213: -7997419213176272589
+    second: smbvarious_141
+  - first:
+      213: 2881309340210290604
+    second: smbvarious_142
+  - first:
+      213: 5800402807464644004
+    second: smbvarious_143
+  - first:
+      213: 7025631746663172546
+    second: smbvarious_144
+  - first:
+      213: -5928831814778168198
+    second: smbvarious_145
+  - first:
+      213: -2075255049834386125
+    second: smbvarious_146
+  - first:
+      213: -2082161965175861481
+    second: smbvarious_147
+  - first:
+      213: 3837437000630429226
+    second: smbvarious_148
+  - first:
+      213: 1077088048610094989
+    second: smbvarious_149
+  - first:
+      213: 1383751494875171389
+    second: smbvarious_150
+  - first:
+      213: 6187584696185768094
+    second: smbvarious_151
+  - first:
+      213: -2125939253841463280
+    second: smbvarious_152
+  - first:
+      213: 7771899125993005520
+    second: smbvarious_153
+  - first:
+      213: 4606925794109331655
+    second: smbvarious_154
+  - first:
+      213: 5800549038970880015
+    second: smbvarious_155
+  - first:
+      213: -2934075445172086461
+    second: smbvarious_156
+  - first:
+      213: -75985772405594977
+    second: smbvarious_157
+  - first:
+      213: -6343491637294986114
+    second: smbvarious_158
+  - first:
+      213: -3250211485828478579
+    second: smbvarious_159
+  - first:
+      213: 194432856764135280
+    second: smbvarious_160
+  - first:
+      213: 6476294719688780241
+    second: smbvarious_161
+  - first:
+      213: -7930180678658879729
+    second: smbvarious_162
+  - first:
+      213: -23882368091413314
+    second: smbvarious_163
+  - first:
+      213: -5984056186641442789
+    second: smbvarious_164
+  - first:
+      213: -4074658531027372722
+    second: smbvarious_165
+  - first:
+      213: -8541708124136637412
+    second: smbvarious_166
+  - first:
+      213: -2069632512921355155
+    second: smbvarious_167
+  - first:
+      213: -4932854529607715638
+    second: smbvarious_168
+  - first:
+      213: -2399420817765119454
+    second: smbvarious_169
+  - first:
+      213: 3687602260824831171
+    second: smbvarious_170
+  - first:
+      213: -858829127798247130
+    second: smbvarious_171
+  - first:
+      213: 548947180996983835
+    second: smbvarious_172
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smbvarious_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 621
+        width: 73
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29c046e8e11bf4c0800000000000000
+      internalID: -4252785731128211153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 599
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54f53080fa96ad70800000000000000
+      internalID: 9054094458608809050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 599
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83e7004f1f250ab0800000000000000
+      internalID: -5042572396506651763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 599
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ad6944c1b3c750800000000000000
+      internalID: 6324093758361938224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 599
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75828f9c8f91cd4f0800000000000000
+      internalID: -802738077247723433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 600
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3525d167c3374330800000000000000
+      internalID: 3694978950713648444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 599
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c6f1a382a3ddc30800000000000000
+      internalID: 4385725556576971892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 599
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60662110dae663a50800000000000000
+      internalID: 6500504801482270214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 600
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf7427d405882d10800000000000000
+      internalID: 2101075482004193218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 599
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88032bc95811cbf20800000000000000
+      internalID: 3439643480961462408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 599
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9ceffc9bd51c680800000000000000
+      internalID: -8736598749482137089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 574
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c49340b7d3923c0800000000000000
+      internalID: -4383905163707331499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 574
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469de0f03ba74ac30800000000000000
+      internalID: 4369752447926589796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 575
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d249abcc07716d0800000000000000
+      internalID: -3019821000522715803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 574
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fc954f9e1ac89b0800000000000000
+      internalID: -5076504653754413284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 574
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7e04f78193764c0800000000000000
+      internalID: -4294400942297520208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 575
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6f6e7f8990fe020800000000000000
+      internalID: 2373126081246328550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 574
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fcc9678afbcbb50800000000000000
+      internalID: 6610369083338444641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 574
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dce808eb835a9e0800000000000000
+      internalID: -1610818900863300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 574
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942415e1895e0c870800000000000000
+      internalID: 8701206921586229833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 574
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a66f31c1cd2c760800000000000000
+      internalID: 7476780344540555872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 533
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97317bf0fde1c5600800000000000000
+      internalID: 458275205475144569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 533
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266bfd9c675504bd0800000000000000
+      internalID: -2648022612212468126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 535
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144bb090f135f8cb0800000000000000
+      internalID: -4859574080148622271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 533
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60f73e43e65a43f0800000000000000
+      internalID: -915824039946620817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 534
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98c36682d0fb90b0800000000000000
+      internalID: -5720714114655598437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 534
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae3fa27d9c23ca70800000000000000
+      internalID: 8845963147831361184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 533
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bfe6442f48ccf80800000000000000
+      internalID: -8084941054971806882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 532
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c19b69208d4f6a10800000000000000
+      internalID: 1904826380247077320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 532
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55403b5b98063c900800000000000000
+      internalID: 703512111375123541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 533
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736e0fb4c1613ac20800000000000000
+      internalID: 3216438869661640247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 533
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419045b9a9da57ee0800000000000000
+      internalID: -1263913240865011436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 496
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d5f12e2f827710800000000000000
+      internalID: 1689570238518384903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 496
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56ca9c6abd5ca3d0800000000000000
+      internalID: -3194074980445141413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 495
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034ee217fcf4d3980800000000000000
+      internalID: -8557595964558351312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 495
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cbe706c13e11240800000000000000
+      internalID: 4760835992124832901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_36
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 496
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c04001134dc31d40800000000000000
+      internalID: 5554008453409685700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 497
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00edb0f57321a5490800000000000000
+      internalID: -7756867379165143552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 497
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512cd76fe437735c0800000000000000
+      internalID: -4235790141538581995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 496
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570cedadc5a958d80800000000000000
+      internalID: -8249017418859495307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_40
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 498
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804fdb3cac2411140800000000000000
+      internalID: 4688602125704229896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 496
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbe5f9801c90ea20800000000000000
+      internalID: 3089640939224165329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 496
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8154e6a21be8f30800000000000000
+      internalID: 4579792666879137986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 460
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a8d389538eab700800000000000000
+      internalID: 557012820818758208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 460
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c68f645e54b85a20800000000000000
+      internalID: 3051387064780031686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_45
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 460
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7014f64ed73360a80800000000000000
+      internalID: -8501050630818807545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 459
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922af79a079c480b0800000000000000
+      internalID: -5727231340391194071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 459
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887f113df8ea46a40800000000000000
+      internalID: 5360601389222459272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 459
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9d19a95e496e230800000000000000
+      internalID: 3667782660401519009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 461
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25270b0146f394510800000000000000
+      internalID: 1533826847105643090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_50
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 459
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd48dfc4ec47cc3b0800000000000000
+      internalID: -5490885416267709221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_51
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 456
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1371a810604d59dd0800000000000000
+      internalID: -2479842897536870607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_52
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 456
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deee8495d9815bf0800000000000000
+      internalID: -337336946662641962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_53
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 457
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b392a2fbadf8c3760800000000000000
+      internalID: 7438978854182070587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 426
+        width: 65
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a10929e4c9e6510800000000000000
+      internalID: 1544343583514958348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 405
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a28ad7e9747532c0800000000000000
+      internalID: -4452524589656145243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 404
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c3e15d3a8a59d0800000000000000
+      internalID: -2784761423603711520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_57
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 404
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f1d7fe9dcce2aa0800000000000000
+      internalID: -6183780001935188161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 405
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3004ae9f3afce8620800000000000000
+      internalID: 2778386323313672195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 404
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0d2ad4b9e3e5760800000000000000
+      internalID: 7448459670460747973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_60
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 404
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487d51ac258bd5a40800000000000000
+      internalID: 5358641797358016388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_61
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 404
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e64770f4e427090800000000000000
+      internalID: -8038276283568460270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_62
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 404
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef9c6e0272686580800000000000000
+      internalID: -8833702427079434269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_63
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 406
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472659972fc275320800000000000000
+      internalID: 2546553534234845812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 406
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7138bd8f257c98a0800000000000000
+      internalID: -6297029331869224577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_65
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 381
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f662dbcde091220800000000000000
+      internalID: 2457011412936322869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 381
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e63845696c2fb9f0800000000000000
+      internalID: -450592606531340572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_67
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 379
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aee06d535bfe70d0800000000000000
+      internalID: -3423022331287507287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_68
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 379
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6efbbf566419be0800000000000000
+      internalID: -1472318199344142677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_69
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 379
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae574d9553847cd0800000000000000
+      internalID: -2561277884332810580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_70
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 379
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2e627c0d3a6d530800000000000000
+      internalID: 3879468246116000461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_71
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 380
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19477324be5be840800000000000000
+      internalID: 5254397518039959839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 379
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b6f6fbc834b7530800000000000000
+      internalID: 3853748177931824002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_73
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 379
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317fabed0d3f63300800000000000000
+      internalID: 231640509271701267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_74
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 380
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa7bcee016fd29d0800000000000000
+      internalID: -2797309240940987661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 344
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34184503fdf121640800000000000000
+      internalID: 5049133175684759875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_76
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 344
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6935ab77f1efbe680800000000000000
+      internalID: -8724600441994062954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_77
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 344
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627420287dd917d10800000000000000
+      internalID: 2121650448392931110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 343
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cfc0c0df9c6ed50800000000000000
+      internalID: 6766317578836835480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 343
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6004bbaf1f9b1b350800000000000000
+      internalID: 6030805824970637318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 343
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16154218219dde300800000000000000
+      internalID: 283121025093488993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_81
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 345
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a11dbef7510808b0800000000000000
+      internalID: -5185893493469539935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_82
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 343
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4058a626f1d3810800000000000000
+      internalID: 1746586738043978960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_83
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 347
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd3e54f31da05e90800000000000000
+      internalID: -7038935916364284494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_84
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 343
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6821e85a622f88790800000000000000
+      internalID: -7527500529349553530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_85
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 343
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669bc05ee6d51d8a0800000000000000
+      internalID: -6282137274334529178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_86
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 308
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c729970aabf5790800000000000000
+      internalID: -7539102052797744109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_87
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 308
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e145c7bd312ce00800000000000000
+      internalID: 1063434295417511451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 312
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7102e4826c082b0800000000000000
+      internalID: -5584245661527697444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 308
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee4567e4d95dec00800000000000000
+      internalID: 931499468885675754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_90
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 310
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce6328ffb7c2a7a0800000000000000
+      internalID: -6367307295832707386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_91
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 308
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d63ceaea3cacf560800000000000000
+      internalID: 7348938061011236561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 308
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72328d21f3b226bf0800000000000000
+      internalID: -332655872572906713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_93
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 308
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5008c3eed3fb8e10800000000000000
+      internalID: 2201120981530443871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_94
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 309
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e2b945f12825be0800000000000000
+      internalID: -1489985455631159715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_95
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 309
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9093f0acb3ddaa400800000000000000
+      internalID: 336324371055327497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_96
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 309
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a346cd7a414985f10800000000000000
+      internalID: 2258718029562799162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_97
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 273
+        width: 99
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea673d0638657e0800000000000000
+      internalID: -1777088551063212386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_98
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 274
+        width: 51
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768f450027c0754a0800000000000000
+      internalID: -6604796644744169369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_99
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 273
+        width: 91
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8275ec3c55de093c0800000000000000
+      internalID: -4354719887054186712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 248
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b465481604bb46b0800000000000000
+      internalID: -5310953397283363664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_101
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 248
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2630992e9927e6310800000000000000
+      internalID: 1400182539416044386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_102
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 248
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99c597eaa7c9c490800000000000000
+      internalID: -7725424148933654116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_103
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 248
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9314184cac1964300800000000000000
+      internalID: 236036330549756217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_104
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 248
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86888df8e44e6e670800000000000000
+      internalID: 8567786367190861928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_105
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 248
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459d650637a1a8b30800000000000000
+      internalID: 4290270677863684436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_106
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 251
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b072361202434110800000000000000
+      internalID: 1243910498814161072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_107
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 251
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac70de606ab36a9e0800000000000000
+      internalID: -1610534232471566390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_108
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 252
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1719c7ca9ea09b0800000000000000
+      internalID: -5113017499892223526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_109
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 212
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba62b4f61bb87270800000000000000
+      internalID: 8248548424798071482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_110
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 212
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf56985ab8a94f50800000000000000
+      internalID: 6866204625206665179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_111
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 212
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5f9314df5ce1a40800000000000000
+      internalID: 5340923899619702216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 213
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e295d9cc40194cf40800000000000000
+      internalID: 5747878474230356270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_113
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 213
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75907c7c1ab322db0800000000000000
+      internalID: -4818223085305525929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_114
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 213
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdba0ff044d02150800000000000000
+      internalID: 5845905691948793283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_115
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 214
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d2215cd8b4694c0800000000000000
+      internalID: -4281151323500303034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_116
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 213
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6f3ff53389ad0c0800000000000000
+      internalID: -4550157127083886895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_117
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 214
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4ff46024dfb5690800000000000000
+      internalID: -7612212285124119321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_118
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 179
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945695d3ecbc52850800000000000000
+      internalID: 6351706936128922953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_119
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 179
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb1bd3f4ffceab40800000000000000
+      internalID: 5453524849762442177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_120
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 179
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21c801b15529bb20800000000000000
+      internalID: 3150590447115092266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 180
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27345a75b819b990800000000000000
+      internalID: -7369832147494619348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_122
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 180
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cb0fdf45d955ce0800000000000000
+      internalID: -1417053519374926804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_123
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 180
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c252b80392c0920800000000000000
+      internalID: 2957784343745211424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_124
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 183
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdb7687dcb0b9890800000000000000
+      internalID: -7450348181438087740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_125
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 182
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e30bf06b3e45dc0800000000000000
+      internalID: -3651043026803868077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_126
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 183
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5526b0f2f2b82050800000000000000
+      internalID: 5776063278592959835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_127
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 158
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ec5ea2664433b80800000000000000
+      internalID: -8416308073028268487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_128
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 157
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60681ed755f21b6b0800000000000000
+      internalID: -5282388843698223610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_129
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 158
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc11579b2a6755600800000000000000
+      internalID: 456401378516210127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_130
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 159
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2254590a4eb5ad70800000000000000
+      internalID: 9053851851091628590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_131
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 159
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f90a68aae584c0800000000000000
+      internalID: -4285761461318715420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_132
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 159
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4911934ea1fdcb10800000000000000
+      internalID: 2003523140009924942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_133
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 159
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a30fa0c05af47f0800000000000000
+      internalID: -626100352039503334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_134
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 159
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190a4b2f22081fd10800000000000000
+      internalID: 2157646584076345489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_135
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 159
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ea5022d8b4a71a0800000000000000
+      internalID: -6811048416911184294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_136
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 134
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f3ce99bf57cfa10800000000000000
+      internalID: 1944558862596849544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_137
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 134
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3cb322be948c0d0800000000000000
+      internalID: -3402388244237925445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_138
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 134
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214817a957ef5feb0800000000000000
+      internalID: -4686560056153373678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_139
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 134
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c57c0bd7fa46340800000000000000
+      internalID: 4856199252583865344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a279a89189845f40800000000000000
+      internalID: 5716345016745030307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_141
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 134
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3398eb60995730190800000000000000
+      internalID: -7997419213176272589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_142
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 134
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafdf3f34977cf720800000000000000
+      internalID: 2881309340210290604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_143
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 134
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adcb1d1f9b2f7050800000000000000
+      internalID: 5800402807464644004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_144
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 134
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9c096a9de008160800000000000000
+      internalID: 7025631746663172546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_145
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 91
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cdc1370ee88bda0800000000000000
+      internalID: -5928831814778168198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_146
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 110
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d294007863333e0800000000000000
+      internalID: -2075255049834386125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_147
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 101
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f0dd479bcaa13e0800000000000000
+      internalID: -2082161965175861481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 110
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a266486de90514530800000000000000
+      internalID: 3837437000630429226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_149
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 99
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f2931afd592fe00800000000000000
+      internalID: 1077088048610094989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_150
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 100
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a437537a2143310800000000000000
+      internalID: 1383751494875171389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_151
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 102
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98cbc97f77bed550800000000000000
+      internalID: 6187584696185768094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_152
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 101
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01878b823852f72e0800000000000000
+      internalID: -2125939253841463280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_153
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 102
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d16bfae3155bdb60800000000000000
+      internalID: 7771899125993005520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_154
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 93
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c89878e9961fef30800000000000000
+      internalID: 4606925794109331655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_155
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 71
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00c71a4e90bf7050800000000000000
+      internalID: 5800549038970880015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_156
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 71
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34952529de11847d0800000000000000
+      internalID: -2934075445172086461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_157
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 71
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94e7c3b75b02fef0800000000000000
+      internalID: -75985772405594977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_158
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 70
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c0f5317f367f7a0800000000000000
+      internalID: -6343491637294986114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_159
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 71
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d898c4ebfdde4e2d0800000000000000
+      internalID: -3250211485828478579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_160
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 79
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077371037a3c2b200800000000000000
+      internalID: 194432856764135280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_161
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 79
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9a9c31cbb60e950800000000000000
+      internalID: 6476294719688780241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_162
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 77
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f0fdb40b652f190800000000000000
+      internalID: -7930180678658879729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_163
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 77
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4248ddc172baff0800000000000000
+      internalID: -23882368091413314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_164
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1812476a9c54fca0800000000000000
+      internalID: -5984056186641442789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_165
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 33
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45391d87a7e377c0800000000000000
+      internalID: -4074658531027372722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_166
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 33
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c74cd87b1c57980800000000000000
+      internalID: -8541708124136637412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_167
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c39b3e1303743e0800000000000000
+      internalID: -2069632512921355155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_168
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 31
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac43e02d0fafa8bb0800000000000000
+      internalID: -4932854529607715638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_169
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 31
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ace6a9a7b83bed0800000000000000
+      internalID: -2399420817765119454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_170
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 56
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4346de7befc2330800000000000000
+      internalID: 3687602260824831171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_171
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 42
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621b3d26573d414f0800000000000000
+      internalID: -858829127798247130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smbvarious_172
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 29
+        width: 31
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cf6cb7d804e9700800000000000000
+      internalID: 548947180996983835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
