@@ -22,7 +22,7 @@ TextureImporter:
     second: Run3
   - first:
       213: 4385725556576971892
-    second: Idle2
+    second: Stance
   - first:
       213: 6500504801482270214
     second: Idle1
@@ -31,7 +31,7 @@ TextureImporter:
     second: Run1
   - first:
       213: 3439643480961462408
-    second: smbvarious_9
+    second: MIdle
   - first:
       213: -8736598749482137089
     second: Run2
@@ -40,13 +40,13 @@ TextureImporter:
     second: Run4
   - first:
       213: 4369752447926589796
-    second: smbvarious_12
+    second: Idle
   - first:
       213: -3019821000522715803
     second: smbvarious_13
   - first:
       213: -5076504653754413284
-    second: smbvarious_14
+    second: Stance2
   - first:
       213: -4294400942297520208
     second: smbvarious_15
@@ -715,7 +715,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle2
+      name: Stance
       rect:
         serializedVersion: 2
         x: 156
@@ -778,7 +778,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: smbvarious_9
+      name: MIdle
       rect:
         serializedVersion: 2
         x: 247
@@ -841,7 +841,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: smbvarious_12
+      name: Idle
       rect:
         serializedVersion: 2
         x: 39
@@ -883,7 +883,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: smbvarious_14
+      name: Stance2
       rect:
         serializedVersion: 2
         x: 99
